@@ -8,8 +8,9 @@ Files for SAS seminar
 2. Importicd [(official repo)](https://github.com/SCANDAT/importicd)
    * SAS macro for importing and grouping ICD codes
 
-3. Stratify
+3. Stratify (by [Klaus Rostgaard](https://www.researchgate.net/profile/Klaus_Rostgaard))
    * macro for preparing time-event tables
+   * [original paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2615420/)
 
 4. Parallelization 
    * general intro to parallel processing 
