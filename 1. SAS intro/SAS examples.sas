@@ -35,3 +35,12 @@ title "Height vs sex";
 vbox height / category=sex;
 run;
 
+
+ods html style=journal;
+proc sgplot data=sashelp.class;
+format sex $sex.;
+title "Height vs sex";
+vbox height / category=sex;
+run;
+
+
